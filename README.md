@@ -1,5 +1,5 @@
 ### Hi there 👋
-### Badge
+ <c><h1>Badge</h1></c>
 [![@aman_pandey2101's Holopin board](https://holopin.me/aman_pandey2101)](https://holopin.io/@aman_pandey2101)
 
 <!--
