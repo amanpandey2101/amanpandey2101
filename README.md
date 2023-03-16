@@ -13,7 +13,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amanpandey2101" alt="amanpandey2101" /></a> </p>
 
-- 🌱 I’m currently learning **Java, C, Web3**
+- 🌱 I’m currently learning **JavaScript, C, Web3**
 
 - 📫 How to reach me **paman7681@gmail.com**
 
