@@ -4,6 +4,12 @@
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=amanpandey2101&label=Profile%20views&color=0e75b6&style=flat" alt="amanpandey2101" /> 
 </p>
+<h2>Badge</h2>
+<p>
+  <a href="https://holopin.io/@aman_pandey2101">
+    <img src="https://holopin.me/aman_pandey2101" alt="@aman_pandey2101's Holopin board" />
+  </a>
+</p>
 
 <p align="left"> 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
@@ -93,9 +99,3 @@
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amanpandey2101&" alt="amanpandey2101" />
 </p>
 
-<h2>Badge</h2>
-<p>
-  <a href="https://holopin.io/@aman_pandey2101">
-    <img src="https://holopin.me/aman_pandey2101" alt="@aman_pandey2101's Holopin board" />
-  </a>
-</p>
