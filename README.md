@@ -17,7 +17,7 @@
   </a> 
 </p>
 
-- 🌱 I’m currently learning **JavaScript, C, Web3**
+- 🌱 I’m currently learning **Next.js, Java, Web3**
 
 - 📫 How to reach me **paman7681@gmail.com**
 
