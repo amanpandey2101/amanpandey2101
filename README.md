@@ -17,7 +17,7 @@
   </a> 
 </p>
 
-- 🌱 I’m currently learning **Next.js, Java, Web3**
+- Hey there, I am a Full Stack Developer with experience in MERN, Next.js, Flask, Python, Solidity, Web3, and React Native. I’ve worked on diverse projects, including building a superadmin dashboard and mobile app for the Indian Army to manage BC/PC Fatal (NoKs). Passionate about creating impactful, scalable solutions and exploring new technologies.
 
 - 📫 How to reach me **paman7681@gmail.com**
 
