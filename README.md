@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aman Kumar Pandey</h1>
-<h3 align="center">A passionate Coder and Web developer from India</h3>
+<h3 align="center">I am just a curious developer who likes to learn and experiment with various technologies and is willing to collaborate on new and intersting ideas.</h3>
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=amanpandey2101&label=Profile%20views&color=0e75b6&style=flat" alt="amanpandey2101" /> 
