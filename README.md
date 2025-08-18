@@ -16,7 +16,7 @@
     <img src="https://github-profile-trophy.vercel.app/?username=amanpandey2101" alt="amanpandey2101" />
   </a> 
 </p>
-- 🌍 I'm based in India
+- 🌍 I'm based in India </br>
 - 🧠 I'm currently learning Rust and Go Lang
 - ✉️ You can contact me at paman7681@gmail.com
 - Passionate about creating impactful, scalable solutions and exploring new technologies.
