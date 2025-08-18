@@ -21,7 +21,7 @@
 - ✉️ You can contact me at paman7681@gmail.com </br>
 - Passionate about creating impactful, scalable solutions and exploring new technologies </br>
 - Awarded by Indian Army for building a scalable solution for NoKs (BC/PC Fatal) </br>
-- 📫 How to reach me **paman7681@gmail.com** </br>
+- 📫 How to reach me paman7681@gmail.com </br>
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
