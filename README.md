@@ -16,9 +16,11 @@
     <img src="https://github-profile-trophy.vercel.app/?username=amanpandey2101" alt="amanpandey2101" />
   </a> 
 </p>
-
-- Hey there, I am a Full Stack Developer with experience in MERN, Next.js, Flask, Python, Solidity, Web3, and React Native. I’ve worked on diverse projects, including building a superadmin dashboard and mobile app for the Indian Army to manage BC/PC Fatal (NoKs). Passionate about creating impactful, scalable solutions and exploring new technologies.
-
+- 🌍 I'm based in India
+- 🧠 I'm currently learning Rust and Go Lang
+- ✉️ You can contact me at paman7681@gmail.com
+- Passionate about creating impactful, scalable solutions and exploring new technologies.
+- Awarded by Indian Army for building a scalable solution for NoKs (BC/PC Fatal)
 - 📫 How to reach me **paman7681@gmail.com**
 
 ### Blogs posts
