@@ -85,13 +85,13 @@ Focused on performance, scalability, and real-world impact.
   <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" height="40"/>
   <img src="https://cdn.worldvectorlogo.com/logos/google-cloud-1.svg" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-white.svg" height="40"/>
 </p>
 
-### AI / Automation
-<p>
-  <img src="https://cdn.worldvectorlogo.com/logos/openai-2.svg" height="40"/>
-</p>
+
+### AI Tools
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" height="40"/>
+
 
 ---
 
