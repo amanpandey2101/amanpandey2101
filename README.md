@@ -11,13 +11,13 @@ Focused on performance, scalability, and real-world impact.
 
 <p align="center">
   <a href="https://linkedin.com/in/amanpandey2101">
-    <img src="https://img.shields.io/badge/LinkedIn-Aman%20Pandey-blue?style=flat&logo=linkedin" />
+    <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
   <a href="mailto:paman7681@gmail.com">
-    <img src="https://img.shields.io/badge/Email-paman7681@gmail.com-red?style=flat&logo=gmail" />
+    <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
   <a href="https://dev.to/@amanpandey2101">
-    <img src="https://img.shields.io/badge/Dev.to-Blogs-black?style=flat&logo=dev.to" />
+    <img src="https://skillicons.dev/icons?i=devto" />
   </a>
 </p>
 
@@ -45,52 +45,60 @@ Focused on performance, scalability, and real-world impact.
 
 ---
 
-## 🛠 Tech Stack
+### 🛠 Tech Stack
 
-### Languages
+#### Languages
 <p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" height="40"/>
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JavaScript.svg"     alt="JavaScript"     height="40" />
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/TypeScript.svg"     alt="TypeScript"     height="40" />
+  <img src="https://skillicons.dev/icons?i=py"         alt="Python"         height="40" />
+  <img src="https://skillicons.dev/icons?i=go"             alt="Go"             height="40" />
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Rust.svg"           alt="Rust"           height="40" />
+  <img src="https://skillicons.dev/icons?i=java"           alt="Java"           height="40" />
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/C.svg"              alt="C"              height="40" />
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CPP.svg"            alt="C++"            height="40" />
 </p>
 
-### Frontend
+#### Frontend
 <p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" height="40"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" height="40"/>
+  <img src="https://skillicons.dev/icons?i=react"          alt="React"          height="40" />
+  <img src="https://skillicons.dev/icons?i=nextjs"         alt="Next.js"        height="40" />
+  <img src="https://skillicons.dev/icons?i=vite"         alt="Vite"         height="40" />
+  <img src="https://skillicons.dev/icons?i=tailwind"    alt="Tailwind CSS"   height="40" />
 </p>
 
-### Backend
+#### Backend
 <p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" height="40"/>
+  <img src="https://skillicons.dev/icons?i=nodejs"         alt="Node.js"        height="40" />
+  <img src="https://skillicons.dev/icons?i=express"         alt="Express"         height="40" />
+  <img src="https://skillicons.dev/icons?i=flask"          alt="Flask"          height="40" />
+  <img src="https://skillicons.dev/icons?i=docker"         alt="Docker"         height="40" />
+  <img src="https://skillicons.dev/icons?i=rabbitmq"        alt="RabbitMQ"         height="40" />
+  <img src="https://skillicons.dev/icons?i=redis"         alt="Redis"         height="40" />
+
 </p>
 
-### Databases
+#### Databases
 <p>
-  <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" height="40"/>
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/MongoDB.svg"        alt="MongoDB"        height="40" />
+  <img src="https://skillicons.dev/icons?i=mysql"          alt="MySQL"          height="40" />
+  <img src="https://skillicons.dev/icons?i=firebase"       alt="Firebase"       height="40" />
 </p>
 
-### Cloud & DevOps
+#### Cloud & DevOps
 <p>
-  <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" height="40"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/google-cloud-1.svg" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-white.svg" height="40"/>
+  <img src="https://skillicons.dev/icons?i=aws"            alt="AWS"            height="40" />
+  <img src="https://skillicons.dev/icons?i=gcp"            alt="GCP"            height="40" />
+  <img src="https://skillicons.dev/icons?i=githubactions" alt="GitHub Actions" height="40" />
 </p>
 
+#### AI / Developer Tools
+<p>
+    <img src="https://skillicons.dev/icons?i=npm"         alt="npm"         height="40" />
+    <img src="https://skillicons.dev/icons?i=git"         alt="Git"         height="40" />
+   <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" height="40"/>
+</p>
 
-### AI Tools
-<img src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" height="40"/>
 
 
 ---
@@ -109,15 +117,15 @@ Focused on performance, scalability, and real-world impact.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=amanpandey2101&show_icons=true&theme=react" />
+  <img src="https://github-readme-stats.vercel.app/api?username=amanpandey2101&show_icons=true&theme=transparent&hide_border=true" alt="Aman's Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amanpandey2101&theme=react" />
+  <img src="https://streak-stats.demolab.com?user=amanpandey2101&theme=transparent&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amanpandey2101&layout=compact&theme=react" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amanpandey2101&layout=compact&theme=transparent&hide_border=true" alt="Top Langs" />
 </p>
 
 ---
