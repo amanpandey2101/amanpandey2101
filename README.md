@@ -16,9 +16,6 @@ Passionate about performance, scalability, and real-world impact.
   <a href="mailto:paman7681@gmail.com">
     <img src="https://img.shields.io/badge/Email-paman7681@gmail.com-red?style=flat&logo=gmail" />
   </a>
-  <a href="https://dev.to/@amanpandey2101">
-    <img src="https://img.shields.io/badge/Dev.to-Blogs-black?style=flat&logo=dev.to" />
-  </a>
 </p>
 
 ---
