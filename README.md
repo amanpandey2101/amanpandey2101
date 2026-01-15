@@ -114,16 +114,15 @@ Focused on performance, scalability, and real-world impact.
 
 ---
 
-<h2 align="center">GitHub Stats</h2>
+<h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=amanpandey2101&theme=dark&hide_border=false&include_all_commits=true&count_private=false" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=amanpandey2101&theme=dark&hide_border=false&include_all_commits=true&count_private=false" />
   <br/>
   <img src="https://nirzak-streak-stats.vercel.app/?user=amanpandey2101&theme=dark&hide_border=false" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amanpandey2101&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=amanpandey2101&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" />
 </p>
----
 
 ## 🌐 Profile Views
 
