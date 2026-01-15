@@ -5,8 +5,8 @@ AI Full-Stack Engineer • Cloud & DevOps • Scalable Systems Builder
 </h3>
 
 <p align="center">
-I build production-grade systems, AI-powered platforms, and cloud-native applications.  
-Passionate about performance, scalability, and real-world impact.
+Building production-grade systems, AI-powered platforms, and cloud-native applications.  
+Focused on performance, scalability, and real-world impact.
 </p>
 
 <p align="center">
@@ -16,16 +16,29 @@ Passionate about performance, scalability, and real-world impact.
   <a href="mailto:paman7681@gmail.com">
     <img src="https://img.shields.io/badge/Email-paman7681@gmail.com-red?style=flat&logo=gmail" />
   </a>
+  <a href="https://dev.to/@amanpandey2101">
+    <img src="https://img.shields.io/badge/Dev.to-Blogs-black?style=flat&logo=dev.to" />
+  </a>
+</p>
+
+---
+
+## 🏅 Open Source & Community
+
+### Hacktoberfest & Holopin Badges
+<p align="center">
+  <a href="https://holopin.io/@aman_pandey2101">
+    <img src="https://holopin.me/aman_pandey2101" alt="Holopin Badges" />
+  </a>
 </p>
 
 ---
 
 ## 🧠 About Me
 
-- 💻 AI Full-Stack Developer working on scalable, cloud-native products  
-- ☁️ Experienced with AWS, GCP, DevOps, CI/CD & distributed systems  
-- ⚙️ Strong foundations in system design, backend architecture & performance  
-- 🤖 Building AI-powered platforms & automation systems  
+- 💻 AI Full-Stack Engineer building scalable SaaS platforms  
+- ☁️ Cloud & DevOps focused (AWS, GCP, Docker, CI/CD)  
+- 🤖 AI automation, OCR, document intelligence  
 - 🏆 Awarded by the **Indian Army** for building a scalable solution for NoKs (BC/PC Fatal cases)  
 - 🌍 Based in India — working with global teams  
 - ✉️ Reach me: **paman7681@gmail.com**
@@ -35,53 +48,61 @@ Passionate about performance, scalability, and real-world impact.
 ## 🛠 Tech Stack
 
 ### Languages
-- JavaScript / TypeScript  
-- Python  
-- Go  
-- Rust  
-- Java  
-- C / C++  
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" height="40"/>
+</p>
 
 ### Frontend
-- React  
-- Next.js  
-- Tailwind CSS  
-- ShadCN UI  
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" height="40"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" height="40"/>
+</p>
 
 ### Backend
-- Node.js  
-- Flask  
-- REST APIs  
-- System Design  
-- Microservices  
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" height="40"/>
+</p>
 
 ### Databases
-- MongoDB  
-- MySQL  
-- Firebase  
+<p>
+  <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" height="40"/>
+</p>
 
 ### Cloud & DevOps
-- AWS (EC2, ECS, S3, CloudFront)
-- Google Cloud Platform  
-- Docker  
-- CI/CD  
-- CDN & Performance Optimization  
+<p>
+  <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" height="40"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/google-cloud-1.svg" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" height="40"/>
+</p>
 
-### AI / ML
-- OpenAI APIs  
-- OCR & Document Intelligence  
-- AI Automation Pipelines  
+### AI / Automation
+<p>
+  <img src="https://cdn.worldvectorlogo.com/logos/openai-2.svg" height="40"/>
+</p>
 
 ---
 
 ## 🏗 What I Build
 
-- Scalable SaaS platforms  
-- Compliance & document automation systems  
-- AI-powered document processing  
+- AI-powered SaaS platforms  
 - Cloud-native dashboards  
-- Distributed backend systems  
-- High-performance APIs  
+- Compliance & document automation systems  
+- OCR & document intelligence pipelines  
+- High-performance backend systems  
+- Distributed APIs  
 
 ---
 
@@ -98,14 +119,6 @@ Passionate about performance, scalability, and real-world impact.
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amanpandey2101&layout=compact&theme=react" />
 </p>
-
----
-
-## 🏅 Achievements
-
-- 🪖 Awarded by **Indian Army** for building a scalable digital solution  
-- 🚀 Built production systems used by real organizations  
-- 🧠 Strong foundation from pre-AI era → now leveraging AI at scale  
 
 ---
 
