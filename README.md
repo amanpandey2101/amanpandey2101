@@ -97,6 +97,7 @@ Focused on performance, scalability, and real-world impact.
     <img src="https://skillicons.dev/icons?i=npm"         alt="npm"         height="40" />
     <img src="https://skillicons.dev/icons?i=git"         alt="Git"         height="40" />
    <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" height="40"/>
+   <img src="https://skillicons.dev/icons?i=claude" height="40"/>
 </p>
 
 
