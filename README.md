@@ -53,9 +53,7 @@ Focused on performance, scalability, and real-world impact.
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/TypeScript.svg"     alt="TypeScript"     height="40" />
   <img src="https://skillicons.dev/icons?i=py"         alt="Python"         height="40" />
   <img src="https://skillicons.dev/icons?i=go"             alt="Go"             height="40" />
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Rust.svg"           alt="Rust"           height="40" />
   <img src="https://skillicons.dev/icons?i=java"           alt="Java"           height="40" />
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/C.svg"              alt="C"              height="40" />
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CPP.svg"            alt="C++"            height="40" />
 </p>
 
